@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: human primacy -->
-  <HumanPrimacy.label>TODO</HumanPrimacy.label>
+  <HumanPrimacy.label>İnsan üstünlüğü</HumanPrimacy.label>
   <!-- EN: Humans are the moral center of the universe. -->
-  <HumanPrimacy.description>TODO</HumanPrimacy.description>
+  <HumanPrimacy.description>İnsanlar evrenin manevi merkezidir. </HumanPrimacy.description>
   <!-- EN:
     <li>creation(tag=meme_HumanPrimacy)        ->[deity0_name] created all of nature, and gave it to man as a gift, to serve man and his purposes forever.</li>
     <li>episode(uses=1,tag=meme_HumanPrimacy)  ->The people fought with the beasts of the forest, and [deity0_name] saw their struggle, and gave them weapons to control nature.</li>
@@ -39,21 +39,21 @@
   -->
   <HumanPrimacy.generalRules.rulesStrings>TODO</HumanPrimacy.generalRules.rulesStrings>
   <!-- EN: humanitist -->
-  <HumanPrimacy.symbolPacks.0.adjective>TODO</HumanPrimacy.symbolPacks.0.adjective>
+  <HumanPrimacy.symbolPacks.0.adjective>İnsancı</HumanPrimacy.symbolPacks.0.adjective>
   <!-- EN: Humanitism -->
-  <HumanPrimacy.symbolPacks.0.ideoName>TODO</HumanPrimacy.symbolPacks.0.ideoName>
+  <HumanPrimacy.symbolPacks.0.ideoName>İnsancılık</HumanPrimacy.symbolPacks.0.ideoName>
   <!-- EN: humanitor -->
-  <HumanPrimacy.symbolPacks.0.member>TODO</HumanPrimacy.symbolPacks.0.member>
+  <HumanPrimacy.symbolPacks.0.member>İnsancı</HumanPrimacy.symbolPacks.0.member>
   <!-- EN: humanity -->
-  <HumanPrimacy.symbolPacks.0.theme>TODO</HumanPrimacy.symbolPacks.0.theme>
+  <HumanPrimacy.symbolPacks.0.theme>İnsanlık</HumanPrimacy.symbolPacks.0.theme>
   <!-- EN: pro-man -->
-  <HumanPrimacy.symbolPacks.1.adjective>TODO</HumanPrimacy.symbolPacks.1.adjective>
+  <HumanPrimacy.symbolPacks.1.adjective>Uzman-Adam</HumanPrimacy.symbolPacks.1.adjective>
   <!-- EN: Mankindism -->
-  <HumanPrimacy.symbolPacks.1.ideoName>TODO</HumanPrimacy.symbolPacks.1.ideoName>
+  <HumanPrimacy.symbolPacks.1.ideoName>İnsanoğluculuk</HumanPrimacy.symbolPacks.1.ideoName>
   <!-- EN: mankindist -->
-  <HumanPrimacy.symbolPacks.1.member>TODO</HumanPrimacy.symbolPacks.1.member>
+  <HumanPrimacy.symbolPacks.1.member>İnsanoğlucu</HumanPrimacy.symbolPacks.1.member>
   <!-- EN: mankind -->
-  <HumanPrimacy.symbolPacks.1.theme>TODO</HumanPrimacy.symbolPacks.1.theme>
+  <HumanPrimacy.symbolPacks.1.theme>İnsanoğlu</HumanPrimacy.symbolPacks.1.theme>
   
   <!-- EN: nature primacy -->
   <NaturePrimacy.label>TODO</NaturePrimacy.label>
@@ -88,36 +88,36 @@
   -->
   <NaturePrimacy.generalRules.rulesStrings>TODO</NaturePrimacy.generalRules.rulesStrings>
   <!-- EN: naturist -->
-  <NaturePrimacy.symbolPacks.0.adjective>TODO</NaturePrimacy.symbolPacks.0.adjective>
+  <NaturePrimacy.symbolPacks.0.adjective>Tabiyatcı</NaturePrimacy.symbolPacks.0.adjective>
   <!-- EN: Naturism -->
-  <NaturePrimacy.symbolPacks.0.ideoName>TODO</NaturePrimacy.symbolPacks.0.ideoName>
+  <NaturePrimacy.symbolPacks.0.ideoName>Tabiyatcılık</NaturePrimacy.symbolPacks.0.ideoName>
   <!-- EN: naturist -->
-  <NaturePrimacy.symbolPacks.0.member>TODO</NaturePrimacy.symbolPacks.0.member>
+  <NaturePrimacy.symbolPacks.0.member>Tabiyatcı</NaturePrimacy.symbolPacks.0.member>
   <!-- EN: nature -->
-  <NaturePrimacy.symbolPacks.0.theme>TODO</NaturePrimacy.symbolPacks.0.theme>
+  <NaturePrimacy.symbolPacks.0.theme>Tabiyat</NaturePrimacy.symbolPacks.0.theme>
   <!-- EN: earthist -->
-  <NaturePrimacy.symbolPacks.1.adjective>TODO</NaturePrimacy.symbolPacks.1.adjective>
+  <NaturePrimacy.symbolPacks.1.adjective>Dünyacı</NaturePrimacy.symbolPacks.1.adjective>
   <!-- EN: Earthism -->
-  <NaturePrimacy.symbolPacks.1.ideoName>TODO</NaturePrimacy.symbolPacks.1.ideoName>
+  <NaturePrimacy.symbolPacks.1.ideoName>Dünyacılık</NaturePrimacy.symbolPacks.1.ideoName>
   <!-- EN: earthist -->
-  <NaturePrimacy.symbolPacks.1.member>TODO</NaturePrimacy.symbolPacks.1.member>
+  <NaturePrimacy.symbolPacks.1.member>Dünyacı</NaturePrimacy.symbolPacks.1.member>
   <!-- EN: earth -->
-  <NaturePrimacy.symbolPacks.1.theme>TODO</NaturePrimacy.symbolPacks.1.theme>
+  <NaturePrimacy.symbolPacks.1.theme>Dünya</NaturePrimacy.symbolPacks.1.theme>
   <!-- EN: soilist -->
-  <NaturePrimacy.symbolPacks.2.adjective>TODO</NaturePrimacy.symbolPacks.2.adjective>
+  <NaturePrimacy.symbolPacks.2.adjective>Toprakçı</NaturePrimacy.symbolPacks.2.adjective>
   <!-- EN: Soilism -->
-  <NaturePrimacy.symbolPacks.2.ideoName>TODO</NaturePrimacy.symbolPacks.2.ideoName>
+  <NaturePrimacy.symbolPacks.2.ideoName>Toprakçılık</NaturePrimacy.symbolPacks.2.ideoName>
   <!-- EN: soilist -->
-  <NaturePrimacy.symbolPacks.2.member>TODO</NaturePrimacy.symbolPacks.2.member>
+  <NaturePrimacy.symbolPacks.2.member>Toprakçı</NaturePrimacy.symbolPacks.2.member>
   <!-- EN: soil -->
-  <NaturePrimacy.symbolPacks.2.theme>TODO</NaturePrimacy.symbolPacks.2.theme>
+  <NaturePrimacy.symbolPacks.2.theme>Toprak</NaturePrimacy.symbolPacks.2.theme>
   <!-- EN: lifeist -->
-  <NaturePrimacy.symbolPacks.3.adjective>TODO</NaturePrimacy.symbolPacks.3.adjective>
+  <NaturePrimacy.symbolPacks.3.adjective>Lifist</NaturePrimacy.symbolPacks.3.adjective>
   <!-- EN: Lifism -->
-  <NaturePrimacy.symbolPacks.3.ideoName>TODO</NaturePrimacy.symbolPacks.3.ideoName>
+  <NaturePrimacy.symbolPacks.3.ideoName>Lifizm</NaturePrimacy.symbolPacks.3.ideoName>
   <!-- EN: lifeist -->
-  <NaturePrimacy.symbolPacks.3.member>TODO</NaturePrimacy.symbolPacks.3.member>
+  <NaturePrimacy.symbolPacks.3.member>Yaşamcı</NaturePrimacy.symbolPacks.3.member>
   <!-- EN: life -->
-  <NaturePrimacy.symbolPacks.3.theme>TODO</NaturePrimacy.symbolPacks.3.theme>
+  <NaturePrimacy.symbolPacks.3.theme>Yaşam</NaturePrimacy.symbolPacks.3.theme>
   
 </LanguageData>
